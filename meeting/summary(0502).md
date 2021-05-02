@@ -1,4 +1,4 @@
-
+## Summary 
 조코딩 같이 시청
 - 관련 url : https://www.youtube.com/watch?v=5bTxyBeOVkA
 - source code : https://github.com/INVESTAR/StockAnalysisInPython
@@ -14,3 +14,6 @@ homework : 크레온 - App - Slack 으로 이루어진 main.py 완성해오기
 - gm : 기사 분석 초안
 - sh : 
 - je : 
+
+
+## 상세 내용
