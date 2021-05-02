@@ -11,10 +11,10 @@ common : 프로젝트 진행에 필요한 사항 조사 및 구축
 homework : 크레온 - App - Slack 으로 이루어진 main.py 완성해오기
 - 각자 주식 필요 용어 정리해오기
 - get_target_action(?).py 에 대한 아이디어 생각해오기
-  > 1) idea 2) code 구현(not essential)
-  > gm : 기사 분석 초안
-  > sh : 
-  > je : 
+- 1) idea 2) code 구현(not essential)
+- gm : 기사 분석 초안
+- sh : 
+- je : 
 
 
 ## Second Meeting
