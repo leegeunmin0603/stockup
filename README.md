@@ -1,6 +1,6 @@
 # KickOff(2021-05-02)
 
-조코딩 1~3강을 듣고 앞으로의 일에 대한 논의 
+조코딩 1~3강을 듣고 앞으로의 일에 대한 논의
 관련 url : https://www.youtube.com/watch?v=5bTxyBeOVkA
 source code : https://github.com/INVESTAR/StockAnalysisInPython
 
