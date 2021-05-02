@@ -1,8 +1,8 @@
 # KickOff(2021-05-02)
 
 조코딩 1~3강을 듣고 앞으로의 일에 대한 논의
-관련 url : https://www.youtube.com/watch?v=5bTxyBeOVkA
-source code : https://github.com/INVESTAR/StockAnalysisInPython
+- 관련 url : https://www.youtube.com/watch?v=5bTxyBeOVkA
+- source code : https://github.com/INVESTAR/StockAnalysisInPython
 
 common : 프로젝트 진행에 필요한 사항 조사 및 구축
 - gm : github 관리 , 폴더 structure 구상 및 생성
