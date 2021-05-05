@@ -6,7 +6,7 @@
 > Visual Studio code에서 디버깅 가능함.
 
 ## Second Meeting()
-
+slack-bot(지능화하기)과 대화하기 https://kitle.xyz/post/67/
 ## Third Meeting()
 
 ## Fourth Meeting()
