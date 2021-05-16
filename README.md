@@ -18,7 +18,7 @@ chapter6 트레이딩 전략과 구현 (sh)
 chapter7 장고 웹 서버 구축 및 자동화 (?)  
 chapter8 변동성 돌파 전략과 자동 매매 (je)  
 chapter9 딥러닝을 이용한 주가 예측 (gm)  
-2) 아마존 서버 구축 (sh)  
+2) 아마존 서버 구축 (sh)  : 연기
 
 3) 크레온 api를 stockinfo에 추가  
 gm : graph 정보 불러오기 추가 , slack 지능화 + 자동 on  
