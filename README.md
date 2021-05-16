@@ -20,10 +20,10 @@ chapter8 변동성 돌파 전략과 자동 매매 (je)
 chapter9 딥러닝을 이용한 주가 예측 (gm)  
 2) 아마존 서버 구축 (sh)  
 
-3) 크레온 api를 stockinfo에 추가
-gm : graph 정보 불러오기 추가
-sh : 
-je : 
+3) 크레온 api를 stockinfo에 추가  
+gm : graph 정보 불러오기 추가  
+sh :   
+je :   
 
 ## Third Meeting()
 
